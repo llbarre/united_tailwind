@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:<USERNAME>/united_tailwind.git main:gh-pages
+git push -f git@github.com:llbarre/united_tailwind.git main:gh-pages
 
 cd -
