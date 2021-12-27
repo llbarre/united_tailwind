@@ -1,7 +1,7 @@
 <template>
     <!-- Footer icons -->
     <footer
-        class="h-24 px-12 bg-gradient-to-l from-brandPrimary to-brandSecondary flex justify-end items-center"
+        class="h-24 px-12 bg-gradient-to-l from-brandPrimary to-brandSecondary flex justify-end items-center shrink-0"
     >
         <img class="text-white p-4" src="../assets/MdiLightbulbOn.svg" />
         <img class="fill-white p-4" src="../assets/IonVolumeHigh.svg" />

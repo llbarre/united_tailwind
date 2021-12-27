@@ -1,8 +1,8 @@
 
 <template>
-  <div class="flex justify-center min-w-full min-h-screen bg-gray-900">
+  <div class="bg-gray-900 min-h-screen max-w-full flex items-center">
     <div
-      class="flex flex-col self-center aspect-video bg-gradient-to-t from-brandPrimary to-brandSecondary min-h-screen min-w-auto"
+      class="aspect-video w-full flex flex-col justify-around bg-gradient-to-t from-brandPrimary to-brandSecondary"
     >
       <!-- Header  -->
       <UnitedHeader />
@@ -82,7 +82,7 @@
         <h4 class="mt-12 mb-4 text-2xl">Optional features</h4>
         <div class="w-full flex items-start">
           <div
-            class="w-1/3 rounded p-4 m-2 group border-white hover:bg-gray-100 hover:shadow-lg border shadow flex items-center cursor-pointer transition"
+            class="w-full md:w-1/3  rounded p-4 m-2 group border-white hover:bg-gray-100 hover:shadow-lg border shadow flex items-center cursor-pointer transition"
           >
             <div class="shrink-0 p-2">
               <svg
@@ -108,7 +108,7 @@
             </div>
           </div>
           <div
-            class="w-1/3 rounded p-4 m-2 group border-white hover:bg-gray-100 hover:shadow-lg border shadow flex items-center cursor-pointer transition"
+            class="w-full md:w-1/3 rounded p-4 m-2 group border-white hover:bg-gray-100 hover:shadow-lg border shadow flex items-center cursor-pointer transition"
           >
             <div class="shrink-0 p-2">
               <svg
