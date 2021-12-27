@@ -1,8 +1,8 @@
 
 <template>
-  <div class="bg-gray-900 min-h-screen max-w-full flex items-center">
+  <div class="bg-gray-900 min-h-screen  max-w-full flex items-center">
     <div
-      class="aspect-video w-full flex flex-col justify-around bg-gradient-to-t from-brandPrimary to-brandSecondary"
+      class="aspect-video max-h-screen w-full flex flex-col justify-around bg-gradient-to-t from-brandPrimary to-brandSecondary"
     >
       <!-- Header  -->
       <UnitedHeader />
